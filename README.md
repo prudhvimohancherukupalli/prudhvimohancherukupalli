@@ -6,11 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3> 👨🏻‍💻 About Me </h3>
 - 🔭 I’m currently working on **Image classification**
 
-- 🌱 I’m currently learning **Jav, .Net Frame work**
+- 🌱 I’m currently learning **Java, .Net Frame work**
 
-- 💬 Ask me about **React,ML, Dl and NLP**
+- 💬 Ask me about **React,Machine Learning, Deep Learning and NLP**
 
 - 📫 How to reach me **prudhvimohan8@gmail.com**
 
